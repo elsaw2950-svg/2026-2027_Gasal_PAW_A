@@ -17,4 +17,3 @@ echo '" )<br>';
 
 echo "Nilai dengan indeks tertinggi: " . $fruits[count($fruits) - 1];
 ?>
-
